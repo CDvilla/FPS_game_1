@@ -8,6 +8,8 @@ namespace Unity.FPS.Gameplay
         [Tooltip("Weapon those bullets are for")]
         public WeaponController Weapon;
 
+        #Comentario pal cv del carlos
+
         [Tooltip("Number of bullets the player gets")]
         public int BulletCount = 30;
 
